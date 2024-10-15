@@ -2,7 +2,7 @@
 Mastermind in Java
 
 This game is a computer version of the board game Mastermind programmed in Java. It was a refreshing of my Java programming skills, 
-nothing else. The game is not intendet for commercial use only for demonstration! 
+nothing else. The game is not intended for commercial use only for demonstration! 
 
 I did the graphical positioning by Hand, just to train my brain a bit.
 
